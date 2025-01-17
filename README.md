@@ -1,11 +1,11 @@
 ### Hi there 👋
+I’m a biologist turned coder with a strong focus on machine learning (ML), data science (DS), and bioinformatics. My current work spans microbial genomics, machine learning applications in bioinformatics, and developing data-driven solutions in biology. 
+I’m passionate about making complex biological problems easier to understand and solve using code.
 
-I am a Biologist who has started to code. Interested in making biology fun by using simple codes. Fascinated about Microbes.
-
-- 🔭 I’m currently working on Microbial Genomics
-- 👯 I’m looking to collaborate on Projects related to genomes of Bacteria, Fungi and Microbiome
-- 🤔 I’m looking for help with Python related works.
+- 🔬 Currently working on: Microbial Genomics, Machine Learning, and Data Science for biological research and applications
+- 💡 Looking to collaborate on: Projects related to genomics of bacteria, fungi, microbiomes, as well as ML and DS applications in bioinformatics
+- 🧠 Skills: Python, Machine Learning, Data Science, Bioinformatics, TensorFlow, PyTorch, Computer Vision, NLP
+- 🤔 Looking for help with: Advanced ML/DS algorithms, bioinformatics pipelines, and Python-related challenges
 - 📫 How to reach me: sudeep1129@gmail.com
-- ResearchGate profile: https://www.researchgate.net/profile/Sudeep_Ghate2
-- - ⚡ Available for collaborative research.
+- 🌐 ResearchGate profile: Sudeep Ghate on ResearchGate
 
