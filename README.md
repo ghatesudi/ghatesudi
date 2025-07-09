@@ -1,5 +1,4 @@
-# Hi there 👋 
-# I’m Sudeep Ghate
+# Hi there 👋 I’m Sudeep Ghate
 
 **🔬 Senior Data Scientist**  
 Building scalable AI/ML solutions in pharma and healthcare—specializing in systematic literature review pipelines, knowledge-graph integration, and phenotyping workflows.
